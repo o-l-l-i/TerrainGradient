@@ -1,4 +1,4 @@
-## TerrainGradient
+# TerrainGradient
 
 Unity standard render pipeline surface shader, which demonstrates how to create a world space height gradient effect.
 
