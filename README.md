@@ -8,10 +8,10 @@ It's possible to adjust bottom and top values which control the gradient start a
 
 I created this only as a reminder snippet for myself.
 
-# Shader in action
+### Shader in action
 
 ![TerrainGradient Shader Image](TerrainGradient.png)
 
-# Shader UI
+### Shader UI
 
 ![TerrainGradient Shader UI Image](TerrainGradientUI.png)
